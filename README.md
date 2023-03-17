@@ -20,3 +20,5 @@ Percentage of non-Vine reviews that were 5 stars
 
 
 ## Summary
+Overall, it does not appear as though those participating in the Vine program are more likely to give 5-star reviews compared to those not participating (38% vs. 54%). In fact, they may less likely, solely because they are being paid or possibly because the quality of the product is truly worse.
+In terms of additional analysis, I would perform a two-sample z-test to determine if there is a statistically significant difference between the proportion of Paid reviews who gave 5-stars and Unpaid reviews who gave 5-stars. 
