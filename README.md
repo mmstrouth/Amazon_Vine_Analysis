@@ -12,10 +12,10 @@ The objective of this project was to analyze Amazon reviews written by members o
 * 38% of Vine 5-Star reviews were 5-Stars
 * 54% of Non-Vine 5-Star reviews were 5-Stars
 
-Percentage of Vine reviews that were 5 stars
+Percentage of Vine reviews that were 5 stars  
 ![This is an image](https://github.com/mmstrouth/Amazon_Vine_Analysis/blob/df41fd56be71c5a642086fb2fa38eb3a9c873cb4/paid_proportion.png)
 
-Percentage of non-Vine reviews that were 5 stars
+Percentage of non-Vine reviews that were 5 stars  
 ![This is an image](https://github.com/mmstrouth/Amazon_Vine_Analysis/blob/c81b485bfb9d1cac7389b65c2267852666b67397/unpaid_proportion.png)
 
 
